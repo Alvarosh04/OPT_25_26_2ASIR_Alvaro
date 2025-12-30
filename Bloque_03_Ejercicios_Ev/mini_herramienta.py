@@ -47,7 +47,7 @@ while opcion != "4":
             print(resp.text[:200])
 
         case "4":
-            print("👋 ¡Hasta la próxima!")
+            print("👋¡Hasta la próxima!")
 
         case _:
             print("Opción no valida")
